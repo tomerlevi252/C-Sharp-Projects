@@ -1,0 +1,16 @@
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.csproj.GenerateResource.cache
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.Form1.resources
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\bin\Debug\net9.0-windows\HW2.exe
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\bin\Debug\net9.0-windows\HW2.deps.json
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\bin\Debug\net9.0-windows\HW2.runtimeconfig.json
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\bin\Debug\net9.0-windows\HW2.dll
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\bin\Debug\net9.0-windows\HW2.pdb
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.dll
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\refint\HW2.dll
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.pdb
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\HW2.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\Visual Studio Projects\HW2\obj\Debug\net9.0-windows\ref\HW2.dll
