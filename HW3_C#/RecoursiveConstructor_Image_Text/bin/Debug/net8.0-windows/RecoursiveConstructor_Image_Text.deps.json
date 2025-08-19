@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RecoursiveConstructor_Image_Text/1.0.0": {
+        "runtime": {
+          "RecoursiveConstructor_Image_Text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecoursiveConstructor_Image_Text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
